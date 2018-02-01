@@ -4,7 +4,7 @@ Data from inertial-sensor based gait analysis and code for statistical analysis
 This repository contains data from joint angular motion variables from 14 subjects (9 women and 5 men) collected in two different days.
 The objective is to use this data to investigate the agreement statistics of each parameter.
 
-Subjects performed 5 bouts of a 10 meter walking test. Data from inertial sensors were acquired by using a commercial system (Technaid, S.L., Spain), processed and stored in ".csv" tables.
+Subjects performed 5 bouts of a 10 meter walking test. Data from inertial sensors were acquired by using a commercial system (Technaid, S.L., Spain). The variables from each test were extracted by a trained researcher, averaged and stored in ".csv" tables. Each table contain data from different joints
 
 The variables on the datasets are presented in tidy format, where each column is a variable and each line represents one participant. Each parameter is identified by a capital letter representing the joint from where it was exctracted:
 H -> Hip joint
